@@ -1,2 +1,2 @@
 # NextWordApp
-Improved version of my English app for text prevision
+New version of my English app for text prevision
