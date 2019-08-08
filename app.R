@@ -48,7 +48,7 @@ ui <- fluidPage(
                             ,textInput("Word", NULL, 
                                       placeholder = "Write the words here...")
                             #,actionButton("go","Go!", icon = icon("plane"))
-                            ,HTML("<br/><a href=http://www.massimilianofigini.com>&copy;massyfigini</a>")),
+                            ,HTML("<br/><a href=https://massyfigini.github.io/>&copy; Massimiliano Figini</a>")),
                    
                    # Second tab (Instruction)
                    tabPanel(HTML("<font color=black>About the app</font>"),
@@ -62,7 +62,7 @@ ui <- fluidPage(
                                  The algorithm is a simple n-gram model.
                                  You can find all the code on my
                                  <a href=https://github.com/massyfigini/NextWordApp>Github</a>
-                                 <br/><br/><a href=http://www.massimilianofigini.com>&copy;massyfigini</a>")))
+                                 <br/><br/><a href=https://massyfigini.github.io/>&copy; Massimiliano Figini</a>")))
                  
                  ,width=4
                             ),
